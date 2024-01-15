@@ -1,0 +1,102 @@
+* {
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+body {
+  background-color: #f0f0f0;
+}
+
+.conteiner {
+  width: 798px;
+  padding: 20px 26px 12px 27px;
+  padding-left: ;
+  box-sizing: border-box;
+  background-color: #FFF;
+  margin-top: 24px;
+}
+
+.conteiner h1 {
+  color: #FF6A28;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.conteiner h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #61656D;
+  margin-top: 5px;
+  margin-bottom: 14px;
+}
+
+.info {
+  width: 746px;
+  padding-top: 12px;
+  display: flex;
+}
+
+.info1 {
+  width: 118px;
+  background-color: #f0f0f0;
+  align-content: center;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 5px;
+  margin-right: 9px;
+}
+
+.info1 p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #61656D;
+  font-weight: 400;
+}
+
+.info1 strong {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #FF6A28;
+  font-weight: 700;
+}
+
+.chef {
+  width: 238px;
+  background-color: #f0f0f0;
+  display: flex;
+  border-radius: 5px;
+}
+
+.chef img{
+  margin-top: 12px;
+  margin-left: 19px;
+  width: 60px;
+  height: 60px;
+}
+
+.chef-info {
+  margin-top: 26px;
+  margin-left: 11px;
+}
+
+.chef-info strong {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #FF6A28;
+  font-weight: 700;
+}
+
+.chef-info p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #61656D;
+  font-weight: 400;
+}
